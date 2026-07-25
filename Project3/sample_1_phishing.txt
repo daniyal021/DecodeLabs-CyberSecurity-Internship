@@ -1,0 +1,12 @@
+From: Microsoft Support <support@login-updates.xyz>
+Subject: URGENT: Your Account Will Be Suspended
+
+Dear user,
+
+We detected unauthorized access to your account. You must verify your
+account immediately by clicking the link below, or your account will be
+locked within 24 hours.
+
+http://microsoft-secure-login.xyz/verify?id=88291
+
+Microsoft Security Team
