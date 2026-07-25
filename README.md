@@ -5,7 +5,7 @@ This repository contains cybersecurity projects completed during my DecodeLabs C
 
 - Project 1: Password Strength Checker
 - Project 2: Basic Encryption & Decryption (Caesar Cipher)
-- Project 3: Coming Soon
+- Project 3: Phishing Awareness Analysis
 - Project 4: Coming Soon
 
 ## Author
